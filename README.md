@@ -1,4 +1,10 @@
-# Livepeer.com API Demo
+# A repo for deploying livepeer's demo
+
+Livepeer has a nextjs demo and I'd like to check out how it works with a live deploy on vercel.
+
+Link here.
+
+### Below is livepeer's readme for their repo:
 
 This is a demo app to showcase how to use Livepeer.com APIs to create a live stream. The app enables the user to create a stream and play it back.
 
