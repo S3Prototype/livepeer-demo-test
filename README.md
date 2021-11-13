@@ -2,7 +2,7 @@
 
 Livepeer has a nextjs demo and I'd like to check out how it works with a live deploy on vercel.
 
-Link here.
+[Link here](https://livepeer-demo-test-m565lq8v8-s3prototype.vercel.app/).
 
 ### Below is livepeer's readme for their repo:
 
